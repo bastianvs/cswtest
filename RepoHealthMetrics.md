@@ -4,7 +4,7 @@
 Repository Name: cswtest  
 Owner: bastianvs  
 Created: May 2, 2025  
-Visibility: Public  
+Visibility: Private  
 
 ## Activity
 Total Commits: 2  
